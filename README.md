@@ -92,8 +92,8 @@ In order to run this project you need:
 1. Browser.
 2. VS Code editor
 3. Git and GitHub
-4. npm manager
-5. node js
+4. NPM manager
+5. NODE JS
 
 ### Setup
 
